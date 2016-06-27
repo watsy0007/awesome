@@ -3,13 +3,13 @@
 
 ## Guide
 
-[elixir style guide](https://github.com/niftyn8/elixir_style_guide)
+[elixir style guide](https://github.com/niftyn8/elixir_style_guide) A community driven style guide for Elixir
 
 ## ruby
 
 ### gems
 
-[tty-progressbar](https://github.com/piotrmurach/tty-progressbar)
+[tty-progressbar](https://github.com/piotrmurach/tty-progressbar) A flexible progress bar drawing in terminal emulators
 
 ## shell
 
@@ -22,4 +22,4 @@
 [postgrest](https://github.com/begriffs/postgrest) REST API for any Postgres database http://postgrest.com
 ## other
 
-[tor-client-minimal](https://github.com/derekhe/tor-client-minimal?utm_source=rss&utm_medium=rss)
+[tor-client-minimal](https://github.com/derekhe/tor-client-minimal) socks proxy
