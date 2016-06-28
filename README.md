@@ -20,6 +20,7 @@
 [embulk](https://github.com/embulk/embulk) Embulk: Pluggable Bulk Data Loader.  
 [kiba-plus](https://github.com/hooopo/kiba-plus) Kiba enhancement for Ruby ETL.  
 [forkift](https://github.com/taskrabbit/forklift) Forklift: Moving big databases around. A ruby ETL tool.  
+[logidze](https://github.com/palkan/logidze)  Logidze provides tools for logging DB records changes. Just like audited and paper_trail do (but faster).  
 
 #### render
 
