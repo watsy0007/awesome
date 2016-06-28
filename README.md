@@ -17,7 +17,7 @@
 [kiba-plus](https://github.com/hooopo/kiba-plus) Kiba enhancement for Ruby ETL.  
 [forkift](https://github.com/taskrabbit/forklift) Forklift: Moving big databases around. A ruby ETL tool.  
 [jsonapi-resources](https://github.com/cerebris/jsonapi-resources) A resource-focused Rails library for developing JSON API compliant servers.  
-
+[jsonapi-serializers](https://github.com/fotinakis/jsonapi-serializers) Pure Ruby readonly serializers for the JSON:API spec.
 ## shell
 
 [haxor-news](https://github.com/donnemartin/haxor-news) Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
