@@ -16,7 +16,7 @@
 [kiba](https://github.com/thbar/kiba) Lightweight ETL for Ruby  
 [etl](https://github.com/square/ETL) Extract, Transform, and Load data with Ruby  
 [embulk](https://github.com/embulk/embulk) Embulk: Pluggable Bulk Data Loader.  
-[kiba-plus](https://github.com/hooopo/kiba-plus) Kiba enhancement for Ruby ETL. 
+[kiba-plus](https://github.com/hooopo/kiba-plus) Kiba enhancement for Ruby ETL.  
 [forkift](https://github.com/taskrabbit/forklift) Forklift: Moving big databases around. A ruby ETL tool.  
 
 #### render
