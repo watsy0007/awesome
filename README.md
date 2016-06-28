@@ -16,6 +16,7 @@
 [embulk](https://github.com/embulk/embulk) Embulk: Pluggable Bulk Data Loader.  
 [kiba-plus](https://github.com/hooopo/kiba-plus) Kiba enhancement for Ruby ETL.  
 [forkift](https://github.com/taskrabbit/forklift) Forklift: Moving big databases around. A ruby ETL tool.  
+[jsonapi-resources](https://github.com/cerebris/jsonapi-resources) A resource-focused Rails library for developing JSON API compliant servers.  
 
 ## shell
 
