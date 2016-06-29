@@ -37,6 +37,13 @@
 
 [postgrest](https://github.com/begriffs/postgrest) REST API for any Postgres database  
 
+## microservice
+
+### api gateway
+
+[kong](https://github.com/Mashape/kong)  🐒 The Open-Source API Gateway and Microservice Management, built on NGINX  
+[tyk](https://github.com/TykTechnologies/tyk)  Tyk Open Source API Gateway written in Go  
+
 ## other
 
 [tor-client-minimal](https://github.com/derekhe/tor-client-minimal) socks proxy  
