@@ -36,6 +36,8 @@
 ### postgresql
 
 [postgrest](https://github.com/begriffs/postgrest) REST API for any Postgres database  
+
 ## other
 
-[tor-client-minimal](https://github.com/derekhe/tor-client-minimal) socks proxy
+[tor-client-minimal](https://github.com/derekhe/tor-client-minimal) socks proxy  
+[FiraCode](https://github.com/tonsky/FiraCode) Monospaced font with programming ligatures  
