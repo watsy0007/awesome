@@ -27,6 +27,12 @@
 [jsonapi-resources](https://github.com/cerebris/jsonapi-resources) A resource-focused Rails library for developing JSON API compliant servers.  
 [jsonapi-serializers](https://github.com/fotinakis/jsonapi-serializers) Pure Ruby readonly serializers for the JSON:API spec.  
 
+## javascript
+
+### nodejs
+
+[shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager)  shadowsocks with multi user and traffic control  
+
 ## shell
 
 [haxor-news](https://github.com/donnemartin/haxor-news) Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
