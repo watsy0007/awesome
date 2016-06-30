@@ -35,7 +35,8 @@
 
 ## shell
 
-[haxor-news](https://github.com/donnemartin/haxor-news) Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
+[haxor-news](https://github.com/donnemartin/haxor-news) Browse Hacker News like a haxor: A Hacker News command line interface (CLI).  
+[httpie](https://github.com/jkbrzt/httpie)  CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  
 
 ## database
 
