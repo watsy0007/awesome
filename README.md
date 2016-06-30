@@ -26,6 +26,7 @@
 
 [jsonapi-resources](https://github.com/cerebris/jsonapi-resources) A resource-focused Rails library for developing JSON API compliant servers.  
 [jsonapi-serializers](https://github.com/fotinakis/jsonapi-serializers) Pure Ruby readonly serializers for the JSON:API spec.  
+[ruby-jwt](https://github.com/jwt/ruby-jwt)  A pure ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard  
 
 ## javascript
 
