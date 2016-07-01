@@ -13,12 +13,6 @@
 [digitalocean](https://github.com/motdotla/digitalocean) The easiest and most complete rubygem for DigitalOcean.  
 [tugboat](https://github.com/pearkes/tugboat)  A command line tool for interacting with your DigitalOcean droplets.  
 
-## crystal
-
-### web framework
-
-[kemal](https://github.com/sdogruyol/kemal)  Lightning Fast, Super Simple web framework for Crystal  
-
 #### db
 
 [kiba](https://github.com/thbar/kiba) Lightweight ETL for Ruby  
@@ -39,6 +33,12 @@
 ### nodejs
 
 [shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager)  shadowsocks with multi user and traffic control  
+
+## crystal
+
+### web framework
+
+[kemal](https://github.com/sdogruyol/kemal)  Lightning Fast, Super Simple web framework for Crystal  
 
 ## shell
 
