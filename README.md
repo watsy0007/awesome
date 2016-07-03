@@ -59,6 +59,7 @@
 ## 3.2 PaaS
 
 [deis](https://github.com/deis/deis)  Your PaaS. Your Rules.  
+[dokku](https://github.com/dokku/dokku)  A docker-powered PaaS that helps you build and manage the lifecycle of applications  
 
 ## 4. test
 
