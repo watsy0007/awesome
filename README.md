@@ -10,6 +10,7 @@
 [tty-progressbar](https://github.com/piotrmurach/tty-progressbar) A flexible progress bar drawing in terminal emulators  
 [digitalocean](https://github.com/motdotla/digitalocean) The easiest and most complete rubygem for DigitalOcean.  
 [tugboat](https://github.com/pearkes/tugboat)  A command line tool for interacting with your DigitalOcean droplets.  
+[circuit_breaker](https://github.com/wsargent/circuit_breaker)  Implementation of Michael Nygard's Circuit Breaker pattern in Ruby  
 
 #### 1.1.2 db
 
