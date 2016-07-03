@@ -1,9 +1,6 @@
 # awsome
 收集有意思的github仓库
 
-## Guide
-
-[elixir style guide](https://github.com/niftyn8/elixir_style_guide) A community driven style guide for Elixir
 
 ## language
 ### ruby
@@ -62,6 +59,11 @@
 ## test
 
 [pact](https://github.com/realestate-com-au/pact)  Define a pact between service consumers and providers, enabling "consumer driven contract" testing.  
+
+
+## Guide
+
+[elixir style guide](https://github.com/niftyn8/elixir_style_guide) A community driven style guide for Elixir
 
 ## other
 
