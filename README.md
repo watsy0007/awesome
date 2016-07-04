@@ -33,13 +33,18 @@
 
 [shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager)  shadowsocks with multi user and traffic control  
 
-### 1.3 crystal
 
-#### 1.3.1 web framework
+### 1.3 elixir
+
+[nectarcommere](https://github.com/lzpfmh/nectarcommerce)  Quest for customizable E-commerce - the Elixir way  
+
+### 1.4 crystal
+
+#### 1.4.1 web framework
 
 [kemal](https://github.com/sdogruyol/kemal)  Lightning Fast, Super Simple web framework for Crystal  
 
-### 1.4 shell
+### 1.5 shell
 
 [haxor-news](https://github.com/donnemartin/haxor-news) Browse Hacker News like a haxor: A Hacker News command line interface (CLI).  
 [httpie](https://github.com/jkbrzt/httpie)  CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  
