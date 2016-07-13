@@ -20,6 +20,7 @@
 [kiba-plus](https://github.com/hooopo/kiba-plus) Kiba enhancement for Ruby ETL.  
 [forkift](https://github.com/taskrabbit/forklift) Forklift: Moving big databases around. A ruby ETL tool.  
 [logidze](https://github.com/palkan/logidze)  Logidze provides tools for logging DB records changes. Just like audited and paper_trail do (but faster).  
+[elasticsearch-rails](https://github.com/elastic/elasticsearch-rails)  Elasticsearch integrations for ActiveModel/Record and Ruby on Rails  
 
 #### 1.1.3 render
 
