@@ -11,6 +11,7 @@
 [digitalocean](https://github.com/motdotla/digitalocean) The easiest and most complete rubygem for DigitalOcean.  
 [tugboat](https://github.com/pearkes/tugboat)  A command line tool for interacting with your DigitalOcean droplets.  
 [circuit_breaker](https://github.com/wsargent/circuit_breaker)  Implementation of Michael Nygard's Circuit Breaker pattern in Ruby  
+[slack-ruby-bot](https://github.com/dblock/slack-ruby-bot)  The easiest way to write a Slack bot in Ruby.  
 
 #### 1.1.2 db
 
