@@ -40,6 +40,7 @@
 ### 1.3 elixir
 
 [nectarcommere](https://github.com/lzpfmh/nectarcommerce)  Quest for customizable E-commerce - the Elixir way  
+[comeonin](https://github.com/riverrun/comeonin) Password hashing library (bcrypt, pbkdf2_sha512 and one-time passwords)  
 
 ### 1.4 crystal
 
