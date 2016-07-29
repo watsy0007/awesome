@@ -57,6 +57,7 @@
 ### 1.6 R
 
 [slackr](https://github.com/hrbrmstr/slackr)  A package to send webhook API messages to Slack.com channels/users from R  
+[shiny-tutorial](http://yanping.me/shiny-tutorial/#) shiny  
 
 ## 2 database
 
