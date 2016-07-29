@@ -53,6 +53,11 @@
 [haxor-news](https://github.com/donnemartin/haxor-news) Browse Hacker News like a haxor: A Hacker News command line interface (CLI).  
 [httpie](https://github.com/jkbrzt/httpie)  CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  
 
+
+### 1.6 R
+
+[slackr](https://github.com/hrbrmstr/slackr)  A package to send webhook API messages to Slack.com channels/users from R  
+
 ## 2 database
 
 ### 2.1 postgresql
