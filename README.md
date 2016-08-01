@@ -59,6 +59,7 @@
 
 [slackr](https://github.com/hrbrmstr/slackr)  A package to send webhook API messages to Slack.com channels/users from R  
 [shiny-tutorial](http://yanping.me/shiny-tutorial/#) shiny  
+[ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny)  Insert interactive charts from ECharts into Shiny applications  
 
 ## 2 database
 
