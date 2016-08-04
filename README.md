@@ -12,7 +12,7 @@
 [tugboat](https://github.com/pearkes/tugboat)  A command line tool for interacting with your DigitalOcean droplets.  
 [circuit_breaker](https://github.com/wsargent/circuit_breaker)  Implementation of Michael Nygard's Circuit Breaker pattern in Ruby  
 [slack-ruby-bot](https://github.com/dblock/slack-ruby-bot)  The easiest way to write a Slack bot in Ruby.   
-[lita](https://github.com/litaio/lita)  ChatOps for Ruby. 
+[lita](https://github.com/litaio/lita)  ChatOps for Ruby.   
 [rack_web_console](https://github.com/rosenfeld/rack_web_console)  A web console for Rack apps.  
 [scenic](https://github.com/thoughtbot/scenic)  Versioned database views for Rails  
 
