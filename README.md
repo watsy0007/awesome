@@ -14,6 +14,7 @@
 [slack-ruby-bot](https://github.com/dblock/slack-ruby-bot)  The easiest way to write a Slack bot in Ruby.   
 [lita](https://github.com/litaio/lita)  ChatOps for Ruby. 
 [rack_web_console](https://github.com/rosenfeld/rack_web_console)  A web console for Rack apps.  
+[scenic](https://github.com/thoughtbot/scenic)  Versioned database views for Rails  
 
 #### 1.1.2 db
 
