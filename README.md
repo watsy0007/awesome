@@ -62,6 +62,7 @@
 [shiny-tutorial](http://yanping.me/shiny-tutorial/#) shiny  
 [ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny)  Insert interactive charts from ECharts into Shiny applications  
 [plotly](https://github.com/ropensci/plotly/)  Create interactive web graphics from R via plotly's JavaScript graphing library  
+[knitr](https://github.com/yihui/knitr)  A general-purpose tool for dynamic report generation in R  
 
 ## 2 database
 
