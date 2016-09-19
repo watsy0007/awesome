@@ -32,6 +32,11 @@
 [jsonapi-serializers](https://github.com/fotinakis/jsonapi-serializers) Pure Ruby readonly serializers for the JSON:API spec.  
 [ruby-jwt](https://github.com/jwt/ruby-jwt)  A pure ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard  
 
+#### 1.1.4 engine
+
+[activeadmin](https://github.com/activeadmin/activeadmin) The administration framework for Ruby on Rails applications.  
+[awesome-activeadmin](https://github.com/serradura/awesome-activeadmin)  A curated list of awesome activeadmin resources, extensions, posts and utilities.   
+
 ### 1.2 javascript
 
 #### 1.2.1 nodejs
