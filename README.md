@@ -15,6 +15,7 @@
 [lita](https://github.com/litaio/lita)  ChatOps for Ruby.   
 [rack_web_console](https://github.com/rosenfeld/rack_web_console)  A web console for Rack apps.  
 [scenic](https://github.com/thoughtbot/scenic)  Versioned database views for Rails  
+[wombat](https://github.com/felipecsl/wombat)  Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.  
 
 #### 1.1.2 db
 
