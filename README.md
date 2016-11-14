@@ -70,6 +70,9 @@
 [plotly](https://github.com/ropensci/plotly/)  Create interactive web graphics from R via plotly's JavaScript graphing library  
 [knitr](https://github.com/yihui/knitr)  A general-purpose tool for dynamic report generation in R  
 
+### 1.7 Go
+[ngrok](https://github.com/inconshreveable/ngrok) Introspected tunnels to localhost  
+
 ## 2 database
 
 ### 2.1 postgresql
