@@ -38,6 +38,9 @@
 [activeadmin](https://github.com/activeadmin/activeadmin) The administration framework for Ruby on Rails applications.  
 [awesome-activeadmin](https://github.com/serradura/awesome-activeadmin)  A curated list of awesome activeadmin resources, extensions, posts and utilities.   
 
+### 1.1.5 articles
+[awesome-rails-gem-zh_CN](https://github.com/debbbbie/awesome-rails-gem-zh_CN)  Rails 常用 Gem 列表 - Awesome Rails Gem 中文版  
+
 ### 1.2 javascript
 
 #### 1.2.1 nodejs
