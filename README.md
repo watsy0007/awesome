@@ -16,6 +16,7 @@
 [rack_web_console](https://github.com/rosenfeld/rack_web_console)  A web console for Rack apps.  
 [scenic](https://github.com/thoughtbot/scenic)  Versioned database views for Rails  
 [wombat](https://github.com/felipecsl/wombat)  Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.  
+[terjira](https://github.com/keepcosmos/terjira)  Terjira is a very interactive and easy to use command line interface for Jira.  
 
 #### 1.1.2 db
 
