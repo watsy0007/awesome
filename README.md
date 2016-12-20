@@ -17,6 +17,7 @@
 [scenic](https://github.com/thoughtbot/scenic)  Versioned database views for Rails  
 [wombat](https://github.com/felipecsl/wombat)  Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.  
 [terjira](https://github.com/keepcosmos/terjira)  Terjira is a very interactive and easy to use command line interface for Jira.  
+[pastel](https://github.com/piotrmurach/pastel)  Terminal output styling with intuitive and clean API.  
 
 #### 1.1.2 db
 
