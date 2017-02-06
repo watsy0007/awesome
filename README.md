@@ -18,7 +18,9 @@
 [wombat](https://github.com/felipecsl/wombat)  Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.  
 [terjira](https://github.com/keepcosmos/terjira)  Terjira is a very interactive and easy to use command line interface for Jira.  
 [pastel](https://github.com/piotrmurach/pastel)  Terminal output styling with intuitive and clean API.  
-[tty-prompt](https://github.com/piotrmurach/tty-prompt) A beautiful and powerful interactive command line prompt
+[tty-prompt](https://github.com/piotrmurach/tty-prompt) A beautiful and powerful interactive command line prompt  
+[benchmark-ips](https://github.com/evanphx/benchmark-ips) Provides iteration per second benchmarking for Ruby  
+[memory_profiler](https://github.com/SamSaffron/memory_profiler) memory_profiler for ruby  
   
 
 #### 1.1.2 db
