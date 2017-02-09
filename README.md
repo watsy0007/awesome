@@ -21,6 +21,7 @@
 [tty-prompt](https://github.com/piotrmurach/tty-prompt) A beautiful and powerful interactive command line prompt  
 [benchmark-ips](https://github.com/evanphx/benchmark-ips) Provides iteration per second benchmarking for Ruby  
 [memory_profiler](https://github.com/SamSaffron/memory_profiler) memory_profiler for ruby  
+[appraisal](https://github.com/thoughtbot/appraisal)  A Ruby library for testing your library against different versions of dependencies.  
   
 
 #### 1.1.2 db
