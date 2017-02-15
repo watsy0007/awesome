@@ -23,6 +23,7 @@
 [memory_profiler](https://github.com/SamSaffron/memory_profiler) memory_profiler for ruby  
 [appraisal](https://github.com/thoughtbot/appraisal)  A Ruby library for testing your library against different versions of dependencies.  
 [chunky_png](https://github.com/wvanbergen/chunky_png)  Read/write access to PNG images in pure Ruby.  
+[geo_pattern](https://github.com/jasonlong/geo_pattern)  Create beautiful generative geometric background images from a string.   
 
 #### 1.1.2 db
 
