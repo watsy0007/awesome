@@ -25,6 +25,7 @@
 [chunky_png](https://github.com/wvanbergen/chunky_png)  Read/write access to PNG images in pure Ruby.  
 [geo_pattern](https://github.com/jasonlong/geo_pattern)  Create beautiful generative geometric background images from a string.   
 [activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system)  An Active Record Reputation System for Rails  
+[icalendar](https://github.com/icalendar/icalendar) icalendar.rb main repository  
 
 #### 1.1.2 db
 
